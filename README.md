@@ -1,4 +1,5 @@
 # [WIP] Laravel Viewi
+## This is just a proof-of-concept. Don't use it in production!
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/protonemedia/laravel-viewi.svg?style=flat-square)](https://packagist.org/packages/protonemedia/laravel-viewi)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/protonemedia/laravel-viewi/run-tests?label=tests)](https://github.com/protonemedia/laravel-viewi/actions?query=workflow%3Arun-tests+branch%3Amain)
